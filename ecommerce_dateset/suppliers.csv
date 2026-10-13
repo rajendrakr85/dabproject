@@ -1,0 +1,61 @@
+supplier_id,supplier_name,contact_email,city,state,lead_time_days,rating
+S0001,Supplier 01 Pvt Ltd,supplier1@example.com,Pune,Maharashtra,11,4.1
+S0002,Supplier 02 Pvt Ltd,supplier2@example.com,Mumbai,Maharashtra,14,4
+S0003,Supplier 03 Pvt Ltd,supplier3@example.com,Jaipur,Rajasthan,5,3.7
+S0004,Supplier 04 Pvt Ltd,supplier4@example.com,Pune,Maharashtra,9,3.9
+S0005,Supplier 05 Pvt Ltd,supplier5@example.com,Chennai,Tamil Nadu,1,3.6
+S0006,Supplier 06 Pvt Ltd,supplier6@example.com,Jaipur,Rajasthan,13,4.6
+S0007,Supplier 07 Pvt Ltd,supplier7@example.com,Mumbai,Maharashtra,12,3.7
+S0008,Supplier 08 Pvt Ltd,supplier8@example.com,Kolkata,West Bengal,6,3.7
+S0009,Supplier 09 Pvt Ltd,supplier9@example.com,Kochi,Kerala,14,4.3
+S0010,Supplier 10 Pvt Ltd,supplier10@example.com,Lucknow,Uttar Pradesh,13,4.1
+S0011,Supplier 11 Pvt Ltd,supplier11@example.com,Chennai,Tamil Nadu,14,3.1
+S0012,Supplier 12 Pvt Ltd,supplier12@example.com,Bengaluru,Karnataka,3,4
+S0013,Supplier 13 Pvt Ltd,supplier13@example.com,Chennai,Tamil Nadu,12,3.1
+S0014,Supplier 14 Pvt Ltd,supplier14@example.com,Kolkata,West Bengal,14,3.7
+S0015,Supplier 15 Pvt Ltd,supplier15@example.com,Kolkata,West Bengal,12,4.9
+S0016,Supplier 16 Pvt Ltd,supplier16@example.com,Kolkata,West Bengal,2,5
+S0017,Supplier 17 Pvt Ltd,supplier17@example.com,Delhi,Delhi,12,3.3
+S0018,Supplier 18 Pvt Ltd,supplier18@example.com,Kochi,Kerala,13,3
+S0019,Supplier 19 Pvt Ltd,supplier19@example.com,Lucknow,Uttar Pradesh,12,4.2
+S0020,Supplier 20 Pvt Ltd,supplier20@example.com,Hyderabad,Telangana,8,4.9
+S0021,Supplier 21 Pvt Ltd,supplier21@example.com,Chennai,Tamil Nadu,6,4.3
+S0022,Supplier 22 Pvt Ltd,supplier22@example.com,Jaipur,Rajasthan,6,4
+S0023,Supplier 23 Pvt Ltd,supplier23@example.com,Bengaluru,Karnataka,4,3.1
+S0024,Supplier 24 Pvt Ltd,supplier24@example.com,Jaipur,Rajasthan,8,4.2
+S0025,Supplier 25 Pvt Ltd,supplier25@example.com,Chennai,Tamil Nadu,4,5
+S0026,Supplier 26 Pvt Ltd,supplier26@example.com,Delhi,Delhi,8,4.9
+S0027,Supplier 27 Pvt Ltd,supplier27@example.com,Lucknow,Uttar Pradesh,2,3.9
+S0028,Supplier 28 Pvt Ltd,supplier28@example.com,Pune,Maharashtra,10,3.3
+S0029,Supplier 29 Pvt Ltd,supplier29@example.com,Hyderabad,Telangana,2,3.8
+S0030,Supplier 30 Pvt Ltd,supplier30@example.com,Mumbai,Maharashtra,11,4.5
+S0031,Supplier 31 Pvt Ltd,supplier31@example.com,Hyderabad,Telangana,12,4.6
+S0032,Supplier 32 Pvt Ltd,supplier32@example.com,Mumbai,Maharashtra,14,3.5
+S0033,Supplier 33 Pvt Ltd,supplier33@example.com,Hyderabad,Telangana,13,3.3
+S0034,Supplier 34 Pvt Ltd,supplier34@example.com,Jaipur,Rajasthan,8,3.5
+S0035,Supplier 35 Pvt Ltd,supplier35@example.com,Hyderabad,Telangana,12,4.5
+S0036,Supplier 36 Pvt Ltd,supplier36@example.com,Kolkata,West Bengal,11,3.3
+S0037,Supplier 37 Pvt Ltd,supplier37@example.com,Kolkata,West Bengal,10,3.5
+S0038,Supplier 38 Pvt Ltd,supplier38@example.com,Delhi,Delhi,5,3.2
+S0039,Supplier 39 Pvt Ltd,supplier39@example.com,Mumbai,Maharashtra,1,4.8
+S0040,Supplier 40 Pvt Ltd,supplier40@example.com,Delhi,Delhi,9,3.8
+S0041,Supplier 41 Pvt Ltd,supplier41@example.com,Bengaluru,Karnataka,8,4.9
+S0042,Supplier 42 Pvt Ltd,supplier42@example.com,Hyderabad,Telangana,11,4.6
+S0043,Supplier 43 Pvt Ltd,supplier43@example.com,Bengaluru,Karnataka,2,4
+S0044,Supplier 44 Pvt Ltd,supplier44@example.com,Delhi,Delhi,9,4.5
+S0045,Supplier 45 Pvt Ltd,supplier45@example.com,Pune,Maharashtra,8,3.4
+S0046,Supplier 46 Pvt Ltd,supplier46@example.com,Chennai,Tamil Nadu,2,3.2
+S0047,Supplier 47 Pvt Ltd,supplier47@example.com,Delhi,Delhi,12,3.7
+S0048,Supplier 48 Pvt Ltd,supplier48@example.com,Bengaluru,Karnataka,6,4.2
+S0049,Supplier 49 Pvt Ltd,supplier49@example.com,Hyderabad,Telangana,10,4.8
+S0050,Supplier 50 Pvt Ltd,supplier50@example.com,Chennai,Tamil Nadu,13,4.2
+S0051,Supplier 51 Pvt Ltd,supplier51@example.com,Lucknow,Uttar Pradesh,12,4.6
+S0052,Supplier 52 Pvt Ltd,supplier52@example.com,Hyderabad,Telangana,11,4.9
+S0053,Supplier 53 Pvt Ltd,supplier53@example.com,Delhi,Delhi,2,3.2
+S0054,Supplier 54 Pvt Ltd,supplier54@example.com,Hyderabad,Telangana,5,3.8
+S0055,Supplier 55 Pvt Ltd,supplier55@example.com,Hyderabad,Telangana,7,3.9
+S0056,Supplier 56 Pvt Ltd,supplier56@example.com,Kolkata,West Bengal,1,4.4
+S0057,Supplier 57 Pvt Ltd,supplier57@example.com,Jaipur,Rajasthan,7,3.6
+S0058,Supplier 58 Pvt Ltd,supplier58@example.com,Kochi,Kerala,10,3
+S0059,Supplier 59 Pvt Ltd,supplier59@example.com,Kolkata,West Bengal,6,4.9
+S0060,Supplier 60 Pvt Ltd,supplier60@example.com,Hyderabad,Telangana,2,4

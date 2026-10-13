@@ -1,0 +1,23 @@
+{
+  "dataset": "Synthetic E-commerce Dataset for Data Engineering",
+  "seed": 20260919,
+  "currency": "INR",
+  "relationships": [
+    "customers.customer_id -> orders.customer_id",
+    "orders.order_id -> order_items/payments/shipments/returns.order_id",
+    "products.product_id -> order_items/returns/website_events.product_id",
+    "suppliers.supplier_id -> products.supplier_id"
+  ],
+  "row_counts": {
+    "customers.csv": 3000,
+    "products.csv": 600,
+    "suppliers.csv": 60,
+    "orders.csv": 15000,
+    "order_items.csv": 45022,
+    "payments.csv": 15000,
+    "shipments.csv": 12792,
+    "returns.csv": 721,
+    "website_events.csv": 50000
+  },
+  "notes": "All people, emails, phone numbers, transactions and businesses are synthetic."
+}

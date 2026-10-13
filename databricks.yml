@@ -1,0 +1,35 @@
+bundle:
+  name: ecommerce_dab_project
+
+include:
+  - resources/*.yml
+
+variables:
+  cluster_id:
+    description: Existing all-purpose cluster ID used by all tasks
+  catalog:
+    description: Unity Catalog catalog
+    default: ecommerce_catalog
+  landing_schema:
+    description: Schema containing the source volume
+    default: landing
+  source_volume:
+    description: Volume holding the CSV files
+    default: raw_files
+
+workspace:
+  root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
+
+targets:
+  dev:
+    mode: development
+    default: true
+    variables:
+      cluster_id: 1013-111000-jmr8ipb9
+  prod:
+    mode: production
+    variables:
+      cluster_id: 1013-111000-jmr8ipb9
+    run_as:
+      user_name: ${workspace.current_user.userName}
+

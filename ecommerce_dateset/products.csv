@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price,stock_quantity,supplier_id,is_active
+P00001,FitPulse Trimmer 1,Beauty,Trimmer,DataGear,14121.14,18116.5,429,S0028,TRUE
+P00002,StyleHub Chair 2,Home,Chair,DataGear,26483.45,37079.98,444,S0060,TRUE
+P00003,FitPulse Face Wash 3,Beauty,Face Wash,UrbanEdge,5822.09,6984.87,280,S0040,TRUE
+P00004,DataGear Football 4,Sports,Football,NextNova,1449.5,2428.78,166,S0040,TRUE
+P00005,UrbanEdge Cloud 5,Books,Cloud,BookNest,42473.29,51705.86,108,S0054,TRUE
+P00006,CloudMart Bedsheet 6,Home,Bedsheet,CloudMart,30630.82,36776.31,322,S0042,TRUE
+P00007,DataGear Running Shoes 7,Sports,Running Shoes,BookNest,7948.9,12997.79,48,S0021,TRUE
+P00008,BrightHome Headphones 8,Electronics,Headphones,BrightHome,661.76,1046.53,302,S0054,TRUE
+P00009,StyleHub Shoes 9,Fashion,Shoes,BrightHome,17655.08,21793.32,53,S0007,FALSE
+P00010,BookNest Perfume 10,Beauty,Perfume,UrbanEdge,44351.2,58355.64,188,S0015,TRUE
+P00011,UrbanEdge Chair 11,Home,Chair,CloudMart,2099.37,3093.61,354,S0056,TRUE
+P00012,CloudMart Smartphone 12,Electronics,Smartphone,NextNova,20421.3,33384.23,170,S0038,TRUE
+P00013,BookNest Backpack 13,Fashion,Backpack,NextNova,9858.31,13834.57,147,S0025,TRUE
+P00014,UrbanEdge Perfume 14,Beauty,Perfume,DataGear,4950.18,5591.56,121,S0045,TRUE
+P00015,StyleHub Python 15,Books,Python,NextNova,20473.06,27144.91,259,S0025,TRUE
+P00016,CloudMart Data Engineering 16,Books,Data Engineering,BookNest,29877.42,38001.35,427,S0054,TRUE
+P00017,NextNova Dumbbell 17,Sports,Dumbbell,FitPulse,13694.99,18297.66,102,S0024,TRUE
+P00018,StyleHub Face Wash 18,Beauty,Face Wash,FitPulse,5392.41,8502.43,173,S0012,TRUE
+P00019,UrbanEdge Trimmer 19,Beauty,Trimmer,BrightHome,44117.56,74913.23,281,S0016,TRUE
+P00020,DataGear Smartwatch 20,Electronics,Smartwatch,DataGear,18057.55,26773.28,484,S0036,TRUE
+P00021,BookNest Yoga Mat 21,Sports,Yoga Mat,StyleHub,41905.15,54319.63,443,S0045,TRUE
+P00022,UrbanEdge Jacket 22,Fashion,Jacket,CloudMart,22094.42,35610.29,197,S0048,TRUE
+P00023,BrightHome T-Shirt 23,Fashion,T-Shirt,BrightHome,1776.31,2843.66,310,S0027,TRUE
+P00024,StyleHub Running Shoes 24,Sports,Running Shoes,StyleHub,35598.3,48257.92,51,S0029,TRUE
+P00025,UrbanEdge Shampoo 25,Beauty,Shampoo,StyleHub,32806.19,54244.69,461,S0055,FALSE
+P00026,NextNova Shoes 26,Fashion,Shoes,BrightHome,11337.12,18645.49,377,S0044,TRUE
+P00027,DataGear Jeans 27,Fashion,Jeans,CloudMart,31414.72,45758.49,233,S0055,TRUE
+P00028,DataGear Business 28,Books,Business,BookNest,4457.92,7764.09,298,S0012,TRUE
+P00029,CloudMart Backpack 29,Fashion,Backpack,StyleHub,28475.61,42600.98,409,S0045,TRUE
+P00030,DataGear Cricket Bat 30,Sports,Cricket Bat,BrightHome,25305.5,39398.23,484,S0032,TRUE
+P00031,CloudMart Backpack 31,Fashion,Backpack,UrbanEdge,15613.16,22915.8,208,S0058,TRUE
+P00032,StyleHub Mixer 32,Home,Mixer,BrightHome,27386.97,40438.03,21,S0013,TRUE
+P00033,UrbanEdge Mixer 33,Home,Mixer,StyleHub,36903.75,48413.15,311,S0030,TRUE
+P00034,StyleHub Headphones 34,Electronics,Headphones,CloudMart,9579.73,12417.78,293,S0035,TRUE
+P00035,UrbanEdge Cookware 35,Home,Cookware,BookNest,44448.15,52496.69,187,S0046,TRUE
+P00036,BrightHome Shampoo 36,Beauty,Shampoo,BrightHome,6315.12,9568.76,459,S0025,TRUE
+P00037,StyleHub Cloud 37,Books,Cloud,UrbanEdge,42954.61,58563.9,15,S0045,TRUE
+P00038,StyleHub Laptop 38,Electronics,Laptop,NextNova,37225.04,51242.75,396,S0015,TRUE
+P00039,BookNest Business 39,Books,Business,FitPulse,37187.44,53841.02,80,S0059,TRUE
+P00040,StyleHub Cookware 40,Home,Cookware,NextNova,26359.46,30929.89,243,S0007,TRUE
+P00041,DataGear Trimmer 41,Beauty,Trimmer,StyleHub,26473.11,44040.23,23,S0060,FALSE
+P00042,NextNova Backpack 42,Fashion,Backpack,FitPulse,16441.33,24843.32,146,S0024,TRUE
+P00043,BookNest Data Engineering 43,Books,Data Engineering,BrightHome,9144.67,13974.65,180,S0018,TRUE
+P00044,CloudMart T-Shirt 44,Fashion,T-Shirt,BrightHome,30245.03,48751.91,458,S0019,TRUE
+P00045,FitPulse Power Bank 45,Electronics,Power Bank,NextNova,30204.62,42578.37,452,S0005,TRUE
+P00046,BrightHome Cookware 46,Home,Cookware,StyleHub,28674.6,45332.18,20,S0051,TRUE
+P00047,StyleHub Trimmer 47,Beauty,Trimmer,FitPulse,37888.26,45697.92,171,S0044,TRUE
+P00048,FitPulse Face Wash 48,Beauty,Face Wash,DataGear,5732.44,8402.89,262,S0020,TRUE
+P00049,StyleHub Moisturizer 49,Beauty,Moisturizer,CloudMart,13600.55,21688.6,201,S0042,TRUE
+P00050,BookNest Fiction 50,Books,Fiction,DataGear,1144.82,1389.6,306,S0006,TRUE
+P00051,BrightHome Business 51,Books,Business,FitPulse,28839,48085.05,14,S0007,TRUE
+P00052,DataGear Laptop 52,Electronics,Laptop,StyleHub,668.54,955.35,165,S0016,TRUE
+P00053,DataGear Python 53,Books,Python,UrbanEdge,32374.41,36537.49,92,S0014,TRUE
+P00054,BookNest Bedsheet 54,Home,Bedsheet,UrbanEdge,1176.25,2057.08,12,S0017,TRUE
+P00055,CloudMart Cloud 55,Books,Cloud,CloudMart,3426.38,5510.01,293,S0022,TRUE
+P00056,BrightHome Bedsheet 56,Home,Bedsheet,UrbanEdge,31183.44,41247.15,237,S0052,TRUE
+P00057,BrightHome Smartphone 57,Electronics,Smartphone,CloudMart,7067.07,9695.54,344,S0030,TRUE
+P00058,UrbanEdge Fiction 58,Books,Fiction,DataGear,23431.91,31519.71,364,S0060,FALSE
+P00059,DataGear Python 59,Books,Python,NextNova,10400.34,15492.48,304,S0059,TRUE
+P00060,BookNest Power Bank 60,Electronics,Power Bank,UrbanEdge,4135.33,5794.12,403,S0018,TRUE
+P00061,NextNova Perfume 61,Beauty,Perfume,NextNova,29027.19,47098.36,56,S0021,TRUE
+P00062,UrbanEdge Data Engineering 62,Books,Data Engineering,CloudMart,3422.3,4659.39,25,S0001,TRUE
+P00063,StyleHub Shoes 63,Fashion,Shoes,BrightHome,35505.51,43664.04,167,S0054,TRUE
+P00064,DataGear Business 64,Books,Business,StyleHub,7333.04,11018.02,210,S0051,TRUE
+P00065,NextNova Running Shoes 65,Sports,Running Shoes,NextNova,18070.48,28422.01,410,S0018,TRUE
+P00066,BookNest Chair 66,Home,Chair,BookNest,11798.71,17438.84,226,S0044,TRUE
+P00067,CloudMart Face Wash 67,Beauty,Face Wash,BrightHome,27265.51,45869.15,74,S0019,TRUE
+P00068,BrightHome Face Wash 68,Beauty,Face Wash,FitPulse,37104.89,59465.06,212,S0043,TRUE
+P00069,CloudMart Football 69,Sports,Football,StyleHub,16393.15,26038.41,0,S0028,TRUE
+P00070,NextNova Shampoo 70,Beauty,Shampoo,CloudMart,36232.34,49318.71,281,S0016,TRUE
+P00071,BrightHome Headphones 71,Electronics,Headphones,BookNest,27337.93,47746.9,104,S0042,TRUE
+P00072,BookNest Bedsheet 72,Home,Bedsheet,NextNova,3439.42,4560.13,290,S0031,TRUE
+P00073,BrightHome Business 73,Books,Business,FitPulse,5192.85,6485.27,383,S0059,TRUE
+P00074,BrightHome Trimmer 74,Beauty,Trimmer,BrightHome,41729.79,46905.7,406,S0043,TRUE
+P00075,FitPulse T-Shirt 75,Fashion,T-Shirt,StyleHub,35231.16,52750.03,201,S0030,TRUE
+P00076,CloudMart Yoga Mat 76,Sports,Yoga Mat,StyleHub,42781.32,57022.87,499,S0029,TRUE
+P00077,BrightHome Shampoo 77,Beauty,Shampoo,UrbanEdge,39556.42,56921.15,312,S0022,TRUE
+P00078,StyleHub Dumbbell 78,Sports,Dumbbell,StyleHub,31620.3,41562.38,183,S0013,TRUE
+P00079,DataGear Python 79,Books,Python,BrightHome,17005.21,24167.92,151,S0035,TRUE
+P00080,UrbanEdge Power Bank 80,Electronics,Power Bank,FitPulse,31713.67,50406.41,186,S0014,TRUE
+P00081,DataGear Perfume 81,Beauty,Perfume,UrbanEdge,2802.98,4751.43,269,S0038,TRUE
+P00082,BrightHome Perfume 82,Beauty,Perfume,BookNest,9628.3,14935.26,492,S0022,TRUE
+P00083,DataGear Smartwatch 83,Electronics,Smartwatch,CloudMart,38688.81,43743.85,117,S0053,TRUE
+P00084,BrightHome Jeans 84,Fashion,Jeans,DataGear,23044.09,33725.77,169,S0041,TRUE
+P00085,DataGear Moisturizer 85,Beauty,Moisturizer,DataGear,9508.63,11872.53,360,S0043,TRUE
+P00086,UrbanEdge Power Bank 86,Electronics,Power Bank,CloudMart,32444.57,38308.37,27,S0056,TRUE
+P00087,BookNest Perfume 87,Beauty,Perfume,BrightHome,20478.54,30497.29,476,S0056,TRUE
+P00088,NextNova T-Shirt 88,Fashion,T-Shirt,BookNest,17971.38,30637.3,295,S0056,TRUE
+P00089,BrightHome Yoga Mat 89,Sports,Yoga Mat,CloudMart,6184.37,10586.68,105,S0026,TRUE
+P00090,FitPulse Cloud 90,Books,Cloud,BookNest,2134.31,2674.72,4,S0004,TRUE
+P00091,StyleHub Running Shoes 91,Sports,Running Shoes,CloudMart,12674.65,21447.05,327,S0009,FALSE
+P00092,StyleHub Smartphone 92,Electronics,Smartphone,UrbanEdge,21889.32,31069.52,57,S0051,FALSE
+P00093,StyleHub Headphones 93,Electronics,Headphones,CloudMart,22181.98,29427.62,351,S0004,FALSE
+P00094,FitPulse Face Wash 94,Beauty,Face Wash,BrightHome,44131.22,60803.24,445,S0002,TRUE
+P00095,FitPulse Business 95,Books,Business,DataGear,919.41,1446.5,436,S0028,TRUE
+P00096,DataGear Football 96,Sports,Football,BrightHome,8929.45,15307.43,267,S0024,TRUE
+P00097,BrightHome Business 97,Books,Business,FitPulse,19912.68,34420.69,462,S0010,TRUE
+P00098,BookNest Face Wash 98,Beauty,Face Wash,UrbanEdge,29719.62,41480.47,233,S0052,TRUE
+P00099,StyleHub T-Shirt 99,Fashion,T-Shirt,NextNova,34332.95,59488.09,185,S0052,TRUE
+P00100,UrbanEdge Laptop 100,Electronics,Laptop,UrbanEdge,36619.32,58832.66,83,S0008,TRUE
+P00101,FitPulse Mixer 101,Home,Mixer,DataGear,8517.08,13776.03,22,S0003,TRUE
+P00102,CloudMart Headphones 102,Electronics,Headphones,UrbanEdge,29970.65,51597.04,257,S0004,TRUE
+P00103,UrbanEdge Laptop 103,Electronics,Laptop,BrightHome,23983.68,37174.58,361,S0035,TRUE
+P00104,CloudMart Python 104,Books,Python,NextNova,39308.66,63534.47,346,S0051,TRUE
+P00105,BrightHome Backpack 105,Fashion,Backpack,UrbanEdge,35682.37,56669.33,458,S0025,TRUE
+P00106,DataGear Jeans 106,Fashion,Jeans,CloudMart,39370.12,51922.3,75,S0043,TRUE
+P00107,CloudMart Jeans 107,Fashion,Jeans,BookNest,10829.46,13348.09,352,S0002,TRUE
+P00108,BookNest Laptop 108,Electronics,Laptop,BookNest,34182.95,45377.59,230,S0027,TRUE
+P00109,DataGear Football 109,Sports,Football,StyleHub,15481.57,22832.76,233,S0010,TRUE
+P00110,CloudMart Moisturizer 110,Beauty,Moisturizer,CloudMart,36772.52,59587.86,220,S0053,TRUE
+P00111,CloudMart Power Bank 111,Electronics,Power Bank,BrightHome,6380.23,8949.61,440,S0015,TRUE
+P00112,NextNova Shampoo 112,Beauty,Shampoo,NextNova,43484.7,57272.7,348,S0036,TRUE
+P00113,UrbanEdge Python 113,Books,Python,FitPulse,1739.08,2334.42,270,S0057,TRUE
+P00114,NextNova Power Bank 114,Electronics,Power Bank,DataGear,6007.94,7469.06,160,S0025,TRUE
+P00115,BrightHome Lamp 115,Home,Lamp,BookNest,39243.93,50230.52,320,S0053,TRUE
+P00116,NextNova Backpack 116,Fashion,Backpack,DataGear,38144.61,49341.54,121,S0050,TRUE
+P00117,DataGear Jacket 117,Fashion,Jacket,BookNest,26397.58,32200.4,212,S0002,TRUE
+P00118,FitPulse Running Shoes 118,Sports,Running Shoes,BookNest,27318.76,39215.66,228,S0055,TRUE
+P00119,BookNest Cookware 119,Home,Cookware,DataGear,35993.18,51080.02,411,S0011,TRUE
+P00120,BrightHome Laptop 120,Electronics,Laptop,BrightHome,28185.52,35022.64,329,S0012,TRUE
+P00121,NextNova Trimmer 121,Beauty,Trimmer,UrbanEdge,14298.36,20923.93,398,S0019,TRUE
+P00122,FitPulse Smartphone 122,Electronics,Smartphone,BrightHome,4510.55,6189.24,353,S0052,TRUE
+P00123,FitPulse Chair 123,Home,Chair,DataGear,10544.76,16252.12,403,S0007,TRUE
+P00124,CloudMart Business 124,Books,Business,BrightHome,35225.07,47277.65,450,S0052,TRUE
+P00125,CloudMart Chair 125,Home,Chair,StyleHub,21395.96,32292.41,249,S0004,TRUE
+P00126,CloudMart Mixer 126,Home,Mixer,BookNest,28228.66,42596.09,441,S0026,TRUE
+P00127,FitPulse Laptop 127,Electronics,Laptop,NextNova,35398.97,42236.77,187,S0039,TRUE
+P00128,CloudMart Laptop 128,Electronics,Laptop,CloudMart,12912.43,21777.81,258,S0056,TRUE
+P00129,BrightHome Headphones 129,Electronics,Headphones,StyleHub,43048.08,50962.02,436,S0038,TRUE
+P00130,CloudMart Jacket 130,Fashion,Jacket,CloudMart,16353.29,24515.89,401,S0036,TRUE
+P00131,CloudMart Trimmer 131,Beauty,Trimmer,UrbanEdge,256.19,320.65,426,S0056,TRUE
+P00132,NextNova Data Engineering 132,Books,Data Engineering,BrightHome,41353.17,68522.41,464,S0034,TRUE
+P00133,StyleHub Chair 133,Home,Chair,BookNest,36701.56,59649.64,207,S0034,TRUE
+P00134,UrbanEdge Running Shoes 134,Sports,Running Shoes,NextNova,6256.47,9755.92,111,S0028,TRUE
+P00135,BookNest Python 135,Books,Python,NextNova,41638.86,68107.04,134,S0032,TRUE
+P00136,BrightHome Yoga Mat 136,Sports,Yoga Mat,BookNest,37960.57,60552.53,75,S0011,TRUE
+P00137,NextNova Jacket 137,Fashion,Jacket,CloudMart,37195.56,53131.54,425,S0010,TRUE
+P00138,CloudMart Dumbbell 138,Sports,Dumbbell,NextNova,30855.19,35730.7,258,S0047,TRUE
+P00139,StyleHub Fiction 139,Books,Fiction,FitPulse,22522.02,28671.59,422,S0019,TRUE
+P00140,FitPulse Smartphone 140,Electronics,Smartphone,BrightHome,43377.51,66900.31,2,S0042,TRUE
+P00141,BookNest Jeans 141,Fashion,Jeans,NextNova,21766.72,35378.61,400,S0031,TRUE
+P00142,BrightHome Smartwatch 142,Electronics,Smartwatch,DataGear,30680.91,41763.58,99,S0046,TRUE
+P00143,NextNova Jeans 143,Fashion,Jeans,BrightHome,39381.68,58670.13,498,S0018,TRUE
+P00144,UrbanEdge Cricket Bat 144,Sports,Cricket Bat,BrightHome,41615.31,67318.91,258,S0019,TRUE
+P00145,UrbanEdge Power Bank 145,Electronics,Power Bank,StyleHub,1121.49,1592.26,364,S0054,TRUE
+P00146,NextNova Headphones 146,Electronics,Headphones,UrbanEdge,33619.71,55697.72,363,S0034,TRUE
+P00147,NextNova Smartwatch 147,Electronics,Smartwatch,DataGear,38687.43,61558.64,147,S0004,TRUE
+P00148,StyleHub Lamp 148,Home,Lamp,StyleHub,22776.27,34415.6,446,S0023,TRUE
+P00149,DataGear Dumbbell 149,Sports,Dumbbell,FitPulse,32942.64,48289.51,161,S0011,TRUE
+P00150,StyleHub Perfume 150,Beauty,Perfume,BrightHome,11143.05,16849,198,S0034,TRUE
+P00151,FitPulse Football 151,Sports,Football,NextNova,40872.99,46997.69,439,S0033,TRUE
+P00152,BrightHome Jeans 152,Fashion,Jeans,FitPulse,25848.24,44409.07,409,S0044,TRUE
+P00153,BrightHome Cookware 153,Home,Cookware,NextNova,16477.01,18518.78,294,S0042,TRUE
+P00154,NextNova Cricket Bat 154,Sports,Cricket Bat,BookNest,34625.85,53517.44,275,S0024,TRUE
+P00155,StyleHub Face Wash 155,Beauty,Face Wash,UrbanEdge,36927.1,48042.68,287,S0010,TRUE
+P00156,StyleHub Power Bank 156,Electronics,Power Bank,NextNova,15783.65,25440.6,123,S0040,TRUE
+P00157,BrightHome Backpack 157,Fashion,Backpack,DataGear,28280.33,33099.68,457,S0011,TRUE
+P00158,FitPulse Backpack 158,Fashion,Backpack,CloudMart,25894.31,37470.79,441,S0027,TRUE
+P00159,CloudMart Fiction 159,Books,Fiction,StyleHub,2646.88,4236.13,292,S0025,TRUE
+P00160,CloudMart Smartphone 160,Electronics,Smartphone,NextNova,15926.72,23444.64,114,S0004,TRUE
+P00161,UrbanEdge Bedsheet 161,Home,Bedsheet,BookNest,12944.1,15771.69,194,S0013,TRUE
+P00162,FitPulse T-Shirt 162,Fashion,T-Shirt,DataGear,5407.48,7505.83,278,S0027,TRUE
+P00163,DataGear Jeans 163,Fashion,Jeans,CloudMart,39498.55,56685.14,41,S0009,TRUE
+P00164,BookNest Chair 164,Home,Chair,DataGear,7106.2,10093.53,324,S0010,TRUE
+P00165,FitPulse T-Shirt 165,Fashion,T-Shirt,CloudMart,39465.69,50953.54,14,S0011,TRUE
+P00166,FitPulse Running Shoes 166,Sports,Running Shoes,DataGear,27148.58,35386.64,201,S0006,TRUE
+P00167,NextNova Python 167,Books,Python,UrbanEdge,43104.39,58264.73,302,S0026,TRUE
+P00168,NextNova Headphones 168,Electronics,Headphones,DataGear,3122.13,5047.61,222,S0054,TRUE
+P00169,BrightHome Headphones 169,Electronics,Headphones,BrightHome,35021.48,54603.13,410,S0058,TRUE
+P00170,CloudMart Mixer 170,Home,Mixer,DataGear,17949.86,25680.08,491,S0052,TRUE
+P00171,DataGear Face Wash 171,Beauty,Face Wash,StyleHub,654.78,834.87,59,S0012,TRUE
+P00172,BrightHome T-Shirt 172,Fashion,T-Shirt,NextNova,24944.59,41823.47,81,S0026,TRUE
+P00173,CloudMart Backpack 173,Fashion,Backpack,UrbanEdge,1307.39,2219.76,315,S0019,TRUE
+P00174,CloudMart Dumbbell 174,Sports,Dumbbell,StyleHub,23784.5,27347.38,491,S0048,TRUE
+P00175,BrightHome Data Engineering 175,Books,Data Engineering,BookNest,20728.39,34841.49,82,S0020,TRUE
+P00176,UrbanEdge Power Bank 176,Electronics,Power Bank,FitPulse,13153.29,20260.25,472,S0036,TRUE
+P00177,UrbanEdge Lamp 177,Home,Lamp,DataGear,27205.8,31077.49,170,S0022,TRUE
+P00178,StyleHub Dumbbell 178,Sports,Dumbbell,BrightHome,26185.44,35479.53,218,S0039,TRUE
+P00179,BookNest Cricket Bat 179,Sports,Cricket Bat,CloudMart,37930.59,43154.75,119,S0036,TRUE
+P00180,FitPulse Bedsheet 180,Home,Bedsheet,UrbanEdge,3821.92,6050.77,225,S0047,TRUE
+P00181,FitPulse Headphones 181,Electronics,Headphones,StyleHub,42946.57,62692.14,88,S0013,TRUE
+P00182,FitPulse Jacket 182,Fashion,Jacket,DataGear,44239.94,73567.72,460,S0025,TRUE
+P00183,NextNova Face Wash 183,Beauty,Face Wash,CloudMart,14709.05,25143.55,249,S0058,TRUE
+P00184,NextNova Shampoo 184,Beauty,Shampoo,DataGear,14764.07,23051.39,314,S0044,TRUE
+P00185,CloudMart Cricket Bat 185,Sports,Cricket Bat,StyleHub,36358.68,44988.26,3,S0039,TRUE
+P00186,BookNest Backpack 186,Fashion,Backpack,NextNova,39545.35,64067.61,5,S0031,TRUE
+P00187,FitPulse Python 187,Books,Python,FitPulse,1086.14,1410.86,362,S0057,TRUE
+P00188,FitPulse Cloud 188,Books,Cloud,DataGear,25075.2,29616.19,247,S0028,TRUE
+P00189,CloudMart Backpack 189,Fashion,Backpack,DataGear,30429.74,48838.59,139,S0005,TRUE
+P00190,CloudMart Jeans 190,Fashion,Jeans,StyleHub,18282.34,27701.65,27,S0023,TRUE
+P00191,UrbanEdge Running Shoes 191,Sports,Running Shoes,BookNest,14739.56,18722.95,208,S0028,FALSE
+P00192,CloudMart Power Bank 192,Electronics,Power Bank,StyleHub,18799.11,21429.85,229,S0025,TRUE
+P00193,FitPulse Face Wash 193,Beauty,Face Wash,BookNest,25417.64,31809.87,5,S0051,TRUE
+P00194,FitPulse Moisturizer 194,Beauty,Moisturizer,BookNest,20495.19,25424.3,240,S0012,TRUE
+P00195,DataGear Yoga Mat 195,Sports,Yoga Mat,NextNova,22928.73,25912.31,140,S0040,TRUE
+P00196,DataGear Bedsheet 196,Home,Bedsheet,BookNest,12343.16,16137.81,418,S0031,TRUE
+P00197,FitPulse Face Wash 197,Beauty,Face Wash,BrightHome,39719.75,47779.82,452,S0047,TRUE
+P00198,FitPulse Trimmer 198,Beauty,Trimmer,DataGear,27977.62,34775.04,403,S0022,TRUE
+P00199,CloudMart Fiction 199,Books,Fiction,FitPulse,37022.71,45719.08,284,S0016,TRUE
+P00200,DataGear Face Wash 200,Beauty,Face Wash,FitPulse,30720.71,40774.96,253,S0016,TRUE
+P00201,StyleHub Power Bank 201,Electronics,Power Bank,CloudMart,14931.45,19867.55,180,S0019,TRUE
+P00202,CloudMart Football 202,Sports,Football,DataGear,12432.61,17377.12,484,S0025,TRUE
+P00203,BookNest Cricket Bat 203,Sports,Cricket Bat,NextNova,23128.89,36227.29,430,S0013,TRUE
+P00204,StyleHub Yoga Mat 204,Sports,Yoga Mat,StyleHub,2953.86,4535.52,133,S0057,TRUE
+P00205,CloudMart Python 205,Books,Python,BookNest,7395.1,11663.46,164,S0051,TRUE
+P00206,DataGear Cricket Bat 206,Sports,Cricket Bat,NextNova,19716,33587.72,429,S0054,TRUE
+P00207,DataGear Backpack 207,Fashion,Backpack,BrightHome,32671.4,43446.91,263,S0036,TRUE
+P00208,CloudMart Chair 208,Home,Chair,StyleHub,22111.48,31317.22,234,S0015,TRUE
+P00209,BookNest Running Shoes 209,Sports,Running Shoes,NextNova,31740.6,53447.05,44,S0008,TRUE
+P00210,DataGear Data Engineering 210,Books,Data Engineering,BookNest,15818.8,23182.93,155,S0019,TRUE
+P00211,BookNest Football 211,Sports,Football,BrightHome,24029.17,39244.34,373,S0021,TRUE
+P00212,DataGear Headphones 212,Electronics,Headphones,UrbanEdge,4253.03,5518.66,45,S0012,TRUE
+P00213,UrbanEdge Cookware 213,Home,Cookware,FitPulse,32486.69,54785.13,95,S0056,TRUE
+P00214,StyleHub Data Engineering 214,Books,Data Engineering,FitPulse,16850.05,24423.99,43,S0008,TRUE
+P00215,DataGear Headphones 215,Electronics,Headphones,DataGear,421.63,603.93,226,S0032,TRUE
+P00216,CloudMart Mixer 216,Home,Mixer,BrightHome,27573.74,38308.26,368,S0031,TRUE
+P00217,NextNova Mixer 217,Home,Mixer,UrbanEdge,26294.37,38948.9,146,S0007,TRUE
+P00218,BrightHome Lamp 218,Home,Lamp,StyleHub,40155.61,66393.76,104,S0060,TRUE
+P00219,DataGear Laptop 219,Electronics,Laptop,StyleHub,18559.19,21187.85,371,S0027,TRUE
+P00220,NextNova Headphones 220,Electronics,Headphones,BrightHome,36340.21,59476.09,476,S0047,TRUE
+P00221,CloudMart Backpack 221,Fashion,Backpack,BookNest,27579.9,46711.35,175,S0020,TRUE
+P00222,FitPulse Perfume 222,Beauty,Perfume,CloudMart,34343.6,44582.2,254,S0059,TRUE
+P00223,BrightHome Running Shoes 223,Sports,Running Shoes,BookNest,12333.2,18774.62,264,S0057,TRUE
+P00224,BookNest Smartphone 224,Electronics,Smartphone,BookNest,32480.34,49072.88,339,S0055,TRUE
+P00225,CloudMart Data Engineering 225,Books,Data Engineering,StyleHub,44258.7,68661.29,428,S0028,TRUE
+P00226,UrbanEdge Dumbbell 226,Sports,Dumbbell,FitPulse,11392.5,14672.13,150,S0004,TRUE
+P00227,UrbanEdge Backpack 227,Fashion,Backpack,StyleHub,6944.07,8729.03,208,S0021,TRUE
+P00228,CloudMart Cloud 228,Books,Cloud,NextNova,34001.39,41837.17,253,S0059,TRUE
+P00229,BrightHome Backpack 229,Fashion,Backpack,DataGear,6288.13,10663.59,240,S0046,TRUE
+P00230,FitPulse Shoes 230,Fashion,Shoes,BrightHome,6379.68,7851.14,134,S0008,TRUE
+P00231,FitPulse Shampoo 231,Beauty,Shampoo,UrbanEdge,33052.24,54921.32,373,S0047,TRUE
+P00232,BrightHome Fiction 232,Books,Fiction,CloudMart,3531.41,4340.02,427,S0029,TRUE
+P00233,CloudMart Jeans 233,Fashion,Jeans,FitPulse,10192.45,17000.37,335,S0010,TRUE
+P00234,DataGear Shampoo 234,Beauty,Shampoo,StyleHub,11467.73,17305.53,156,S0016,TRUE
+P00235,NextNova Cricket Bat 235,Sports,Cricket Bat,StyleHub,26253.06,32001.35,488,S0007,TRUE
+P00236,UrbanEdge Shampoo 236,Beauty,Shampoo,UrbanEdge,17754.47,25722.62,13,S0021,TRUE
+P00237,UrbanEdge Fiction 237,Books,Fiction,CloudMart,5010.45,7340.18,368,S0036,TRUE
+P00238,NextNova Lamp 238,Home,Lamp,BookNest,1330.29,2181.77,275,S0010,TRUE
+P00239,NextNova Shoes 239,Fashion,Shoes,DataGear,29926.39,44842.5,491,S0012,TRUE
+P00240,StyleHub Dumbbell 240,Sports,Dumbbell,CloudMart,26288.62,36818.5,1,S0005,TRUE
+P00241,StyleHub Shampoo 241,Beauty,Shampoo,DataGear,31663.79,50255.77,393,S0047,TRUE
+P00242,UrbanEdge Face Wash 242,Beauty,Face Wash,DataGear,7780.42,10269.14,33,S0021,TRUE
+P00243,FitPulse Lamp 243,Home,Lamp,NextNova,29587.71,41129.21,169,S0057,TRUE
+P00244,UrbanEdge Business 244,Books,Business,DataGear,6749.73,11747.76,55,S0018,TRUE
+P00245,DataGear Business 245,Books,Business,NextNova,44809.38,59030.09,57,S0006,TRUE
+P00246,CloudMart Cookware 246,Home,Cookware,StyleHub,9325.54,14892,251,S0037,TRUE
+P00247,NextNova Power Bank 247,Electronics,Power Bank,BookNest,1910.45,2351.12,148,S0043,TRUE
+P00248,UrbanEdge Jacket 248,Fashion,Jacket,FitPulse,27565.55,46189.83,211,S0008,FALSE
+P00249,CloudMart Power Bank 249,Electronics,Power Bank,BookNest,35908.52,45268.85,254,S0004,TRUE
+P00250,UrbanEdge Headphones 250,Electronics,Headphones,CloudMart,26509.9,41833.66,66,S0018,TRUE
+P00251,DataGear Jacket 251,Fashion,Jacket,StyleHub,15063.13,20658.66,242,S0057,TRUE
+P00252,FitPulse Face Wash 252,Beauty,Face Wash,UrbanEdge,44005.59,60023.11,417,S0049,TRUE
+P00253,BrightHome Perfume 253,Beauty,Perfume,FitPulse,7475.3,11663.53,171,S0020,FALSE
+P00254,BrightHome Mixer 254,Home,Mixer,CloudMart,25788.72,41004.36,171,S0059,TRUE
+P00255,NextNova Power Bank 255,Electronics,Power Bank,StyleHub,34862.01,57690.02,69,S0046,TRUE
+P00256,StyleHub Power Bank 256,Electronics,Power Bank,NextNova,10147.58,14871.96,140,S0043,TRUE
+P00257,BrightHome Jacket 257,Fashion,Jacket,DataGear,36098.73,46713.03,4,S0023,TRUE
+P00258,DataGear Cookware 258,Home,Cookware,BookNest,5773.9,8699.55,54,S0015,TRUE
+P00259,UrbanEdge Moisturizer 259,Beauty,Moisturizer,FitPulse,42517.93,56875.21,72,S0027,TRUE
+P00260,BookNest Jacket 260,Fashion,Jacket,FitPulse,36311.64,46232.38,147,S0010,TRUE
+P00261,CloudMart Shoes 261,Fashion,Shoes,UrbanEdge,33339.08,40489.72,365,S0012,TRUE
+P00262,BookNest Chair 262,Home,Chair,CloudMart,41317.12,66149.33,141,S0028,TRUE
+P00263,StyleHub Jacket 263,Fashion,Jacket,CloudMart,22369.22,36138.46,235,S0034,TRUE
+P00264,BrightHome Perfume 264,Beauty,Perfume,CloudMart,18626.33,27564.66,3,S0025,TRUE
+P00265,NextNova Lamp 265,Home,Lamp,StyleHub,44917.09,52073.23,484,S0041,TRUE
+P00266,FitPulse Cricket Bat 266,Sports,Cricket Bat,DataGear,28175.77,35396.34,416,S0019,TRUE
+P00267,StyleHub T-Shirt 267,Fashion,T-Shirt,UrbanEdge,41339.61,49003.33,441,S0013,TRUE
+P00268,UrbanEdge Laptop 268,Electronics,Laptop,NextNova,38980.38,59795.12,295,S0006,TRUE
+P00269,StyleHub Laptop 269,Electronics,Laptop,BrightHome,1249.12,1655.49,351,S0016,TRUE
+P00270,NextNova Moisturizer 270,Beauty,Moisturizer,StyleHub,42673.5,49936.18,410,S0012,FALSE
+P00271,StyleHub Bedsheet 271,Home,Bedsheet,NextNova,27379.34,31136.22,296,S0023,TRUE
+P00272,BookNest Jeans 272,Fashion,Jeans,UrbanEdge,41715.59,52628.33,357,S0017,TRUE
+P00273,BookNest Headphones 273,Electronics,Headphones,NextNova,32305.59,45491.43,384,S0026,TRUE
+P00274,CloudMart Fiction 274,Books,Fiction,CloudMart,19734.45,31373.21,176,S0044,TRUE
+P00275,NextNova Headphones 275,Electronics,Headphones,CloudMart,40871.1,69732.18,199,S0017,TRUE
+P00276,UrbanEdge Cricket Bat 276,Sports,Cricket Bat,BookNest,29331.87,37874.41,477,S0031,TRUE
+P00277,StyleHub Football 277,Sports,Football,StyleHub,5234.75,6201.65,350,S0056,FALSE
+P00278,NextNova Fiction 278,Books,Fiction,BookNest,40675.19,49985.9,219,S0054,TRUE
+P00279,BookNest Laptop 279,Electronics,Laptop,BrightHome,33929.81,50180.09,444,S0058,TRUE
+P00280,NextNova Football 280,Sports,Football,UrbanEdge,12529.17,14862.35,361,S0030,TRUE
+P00281,CloudMart Running Shoes 281,Sports,Running Shoes,CloudMart,20576.66,34485.6,8,S0014,TRUE
+P00282,BrightHome Football 282,Sports,Football,BrightHome,39980.68,63661.61,3,S0023,TRUE
+P00283,UrbanEdge Smartwatch 283,Electronics,Smartwatch,CloudMart,9164.08,10918.48,187,S0025,TRUE
+P00284,NextNova Python 284,Books,Python,NextNova,27709.24,35389.41,337,S0030,TRUE
+P00285,BrightHome Data Engineering 285,Books,Data Engineering,NextNova,25462.78,30188.63,61,S0005,TRUE
+P00286,DataGear Trimmer 286,Beauty,Trimmer,BookNest,42912.79,69877.43,335,S0028,TRUE
+P00287,StyleHub Football 287,Sports,Football,NextNova,43393.8,59175.21,110,S0021,TRUE
+P00288,DataGear Headphones 288,Electronics,Headphones,StyleHub,3188.23,5103.44,71,S0029,TRUE
+P00289,UrbanEdge Cloud 289,Books,Cloud,UrbanEdge,15511.84,18226.89,324,S0044,TRUE
+P00290,FitPulse Smartphone 290,Electronics,Smartphone,StyleHub,19940.04,28853.69,10,S0048,TRUE
+P00291,FitPulse Moisturizer 291,Beauty,Moisturizer,StyleHub,158.61,191.03,253,S0045,TRUE
+P00292,BrightHome Lamp 292,Home,Lamp,DataGear,3531.06,5206.94,261,S0019,TRUE
+P00293,DataGear Trimmer 293,Beauty,Trimmer,FitPulse,35106.76,42148.43,414,S0046,TRUE
+P00294,BrightHome Perfume 294,Beauty,Perfume,BookNest,6268.8,10719.73,267,S0016,TRUE
+P00295,BookNest Bedsheet 295,Home,Bedsheet,FitPulse,14161.65,18043.74,363,S0015,FALSE
+P00296,UrbanEdge Shampoo 296,Beauty,Shampoo,DataGear,22848.86,27382.53,482,S0001,TRUE
+P00297,BrightHome Bedsheet 297,Home,Bedsheet,DataGear,20148.69,23751.65,7,S0017,TRUE
+P00298,FitPulse Smartwatch 298,Electronics,Smartwatch,DataGear,40256.56,54644.94,208,S0009,TRUE
+P00299,BrightHome Yoga Mat 299,Sports,Yoga Mat,DataGear,36851.04,58226.48,489,S0037,TRUE
+P00300,StyleHub Smartwatch 300,Electronics,Smartwatch,UrbanEdge,22803.36,37792.43,474,S0006,TRUE
+P00301,UrbanEdge Python 301,Books,Python,StyleHub,3510.43,6068.25,192,S0022,TRUE
+P00302,DataGear Data Engineering 302,Books,Data Engineering,StyleHub,16670.73,20629.46,81,S0020,TRUE
+P00303,StyleHub Dumbbell 303,Sports,Dumbbell,NextNova,1538.45,2099.46,305,S0024,TRUE
+P00304,DataGear Perfume 304,Beauty,Perfume,BrightHome,20036.17,31003.78,343,S0018,TRUE
+P00305,StyleHub Cookware 305,Home,Cookware,CloudMart,24024.1,37612.87,359,S0025,TRUE
+P00306,CloudMart Cookware 306,Home,Cookware,BookNest,26001.12,40965.45,408,S0006,TRUE
+P00307,NextNova Yoga Mat 307,Sports,Yoga Mat,FitPulse,43881.88,60694.51,493,S0059,TRUE
+P00308,DataGear Cricket Bat 308,Sports,Cricket Bat,DataGear,4100.03,6478.83,310,S0003,FALSE
+P00309,NextNova Business 309,Books,Business,FitPulse,16809.46,19699.52,478,S0047,TRUE
+P00310,BookNest Cookware 310,Home,Cookware,BrightHome,8349.28,12181.72,280,S0017,TRUE
+P00311,UrbanEdge Trimmer 311,Beauty,Trimmer,BookNest,6334.99,8082.24,52,S0057,TRUE
+P00312,UrbanEdge Moisturizer 312,Beauty,Moisturizer,StyleHub,39523.1,63016.54,73,S0055,TRUE
+P00313,DataGear Face Wash 313,Beauty,Face Wash,BrightHome,26917.39,34482.4,244,S0017,TRUE
+P00314,FitPulse Cookware 314,Home,Cookware,FitPulse,26634.25,36108.51,431,S0034,TRUE
+P00315,StyleHub Laptop 315,Electronics,Laptop,FitPulse,17298.84,21293.78,274,S0038,TRUE
+P00316,UrbanEdge Business 316,Books,Business,NextNova,2409.97,2979.3,152,S0026,TRUE
+P00317,FitPulse Headphones 317,Electronics,Headphones,CloudMart,20874.88,31900.31,320,S0017,TRUE
+P00318,DataGear Chair 318,Home,Chair,BookNest,28475.03,48190.7,135,S0012,TRUE
+P00319,FitPulse Dumbbell 319,Sports,Dumbbell,BookNest,42430.54,66647.91,46,S0041,TRUE
+P00320,UrbanEdge Fiction 320,Books,Fiction,FitPulse,16897.3,22843.41,372,S0028,TRUE
+P00321,NextNova Face Wash 321,Beauty,Face Wash,BrightHome,38308.78,58737.54,107,S0044,TRUE
+P00322,NextNova Bedsheet 322,Home,Bedsheet,StyleHub,23658.94,35777.01,55,S0011,TRUE
+P00323,NextNova Laptop 323,Electronics,Laptop,CloudMart,3691.19,4265.52,440,S0016,TRUE
+P00324,CloudMart Moisturizer 324,Beauty,Moisturizer,BookNest,42660.98,57477.9,109,S0014,TRUE
+P00325,DataGear Perfume 325,Beauty,Perfume,BookNest,41624.56,64899.36,49,S0035,TRUE
+P00326,CloudMart Dumbbell 326,Sports,Dumbbell,BookNest,12565.22,20141.16,410,S0024,TRUE
+P00327,StyleHub Business 327,Books,Business,CloudMart,27582.3,46954.44,310,S0056,TRUE
+P00328,NextNova Python 328,Books,Python,DataGear,30316.67,40469.36,147,S0055,TRUE
+P00329,FitPulse Chair 329,Home,Chair,StyleHub,24249.75,30315.83,180,S0056,TRUE
+P00330,FitPulse Shampoo 330,Beauty,Shampoo,DataGear,37819.22,44766.64,184,S0051,TRUE
+P00331,UrbanEdge Fiction 331,Books,Fiction,BrightHome,14192.07,20904.66,203,S0045,TRUE
+P00332,NextNova Jacket 332,Fashion,Jacket,FitPulse,36042.1,45335.18,185,S0060,TRUE
+P00333,StyleHub Power Bank 333,Electronics,Power Bank,CloudMart,30019.87,39287.77,270,S0023,TRUE
+P00334,NextNova Power Bank 334,Electronics,Power Bank,FitPulse,7008.84,8854.22,111,S0006,TRUE
+P00335,DataGear Smartphone 335,Electronics,Smartphone,BrightHome,34952.19,51629.12,471,S0043,TRUE
+P00336,BookNest T-Shirt 336,Fashion,T-Shirt,CloudMart,21762.45,24399.47,416,S0004,TRUE
+P00337,NextNova Fiction 337,Books,Fiction,NextNova,40334,65834.82,280,S0032,TRUE
+P00338,CloudMart Face Wash 338,Beauty,Face Wash,CloudMart,35034.88,51217.03,84,S0032,TRUE
+P00339,UrbanEdge Jeans 339,Fashion,Jeans,BrightHome,1372.11,2081.13,43,S0011,TRUE
+P00340,BookNest Cookware 340,Home,Cookware,NextNova,35384.72,54661.89,375,S0037,TRUE
+P00341,BrightHome Chair 341,Home,Chair,CloudMart,34546.38,45505.46,71,S0021,TRUE
+P00342,BookNest Laptop 342,Electronics,Laptop,FitPulse,3701.9,4696.06,249,S0027,TRUE
+P00343,CloudMart Cloud 343,Books,Cloud,FitPulse,10136.4,12366.11,303,S0022,TRUE
+P00344,CloudMart Running Shoes 344,Sports,Running Shoes,StyleHub,36010.93,56892.73,340,S0004,TRUE
+P00345,StyleHub Yoga Mat 345,Sports,Yoga Mat,FitPulse,6200.23,7124.23,216,S0050,TRUE
+P00346,CloudMart Cookware 346,Home,Cookware,FitPulse,9963.43,11604.5,371,S0031,TRUE
+P00347,StyleHub Bedsheet 347,Home,Bedsheet,FitPulse,8250.31,9782.27,42,S0020,TRUE
+P00348,BookNest Bedsheet 348,Home,Bedsheet,UrbanEdge,24580.1,39550.11,262,S0028,TRUE
+P00349,BrightHome Jacket 349,Fashion,Jacket,CloudMart,2614.71,3031,265,S0031,TRUE
+P00350,CloudMart Dumbbell 350,Sports,Dumbbell,FitPulse,12243.53,20262.72,13,S0026,TRUE
+P00351,BrightHome Chair 351,Home,Chair,BrightHome,39420.39,67464.14,417,S0060,TRUE
+P00352,BookNest Smartwatch 352,Electronics,Smartwatch,UrbanEdge,32967.9,55633.84,141,S0014,TRUE
+P00353,NextNova Chair 353,Home,Chair,BrightHome,28154.13,39841.64,392,S0041,TRUE
+P00354,NextNova Business 354,Books,Business,BrightHome,2839.93,4858.55,148,S0020,TRUE
+P00355,NextNova Headphones 355,Electronics,Headphones,BrightHome,42545.61,73308.38,176,S0008,TRUE
+P00356,DataGear Python 356,Books,Python,UrbanEdge,41898.85,64501.36,272,S0030,TRUE
+P00357,DataGear Laptop 357,Electronics,Laptop,UrbanEdge,13516.7,22847.69,430,S0007,TRUE
+P00358,BrightHome Face Wash 358,Beauty,Face Wash,BrightHome,26191.13,29490.97,206,S0009,TRUE
+P00359,DataGear Headphones 359,Electronics,Headphones,UrbanEdge,21210.49,32890.49,277,S0001,TRUE
+P00360,DataGear Face Wash 360,Beauty,Face Wash,UrbanEdge,9132.96,10703.76,457,S0034,TRUE
+P00361,NextNova Smartwatch 361,Electronics,Smartwatch,NextNova,19268.17,33122.11,161,S0055,TRUE
+P00362,DataGear Cricket Bat 362,Sports,Cricket Bat,StyleHub,8936.31,15456.79,8,S0016,TRUE
+P00363,DataGear Shampoo 363,Beauty,Shampoo,CloudMart,42739.72,69980.43,347,S0027,TRUE
+P00364,StyleHub Jacket 364,Fashion,Jacket,BookNest,7197.81,12403.12,404,S0049,TRUE
+P00365,UrbanEdge Jacket 365,Fashion,Jacket,NextNova,1959.08,2483.99,212,S0038,TRUE
+P00366,CloudMart Smartphone 366,Electronics,Smartphone,FitPulse,18504.17,27020.95,304,S0047,FALSE
+P00367,BrightHome Yoga Mat 367,Sports,Yoga Mat,CloudMart,6336.86,10247.1,471,S0031,TRUE
+P00368,UrbanEdge T-Shirt 368,Fashion,T-Shirt,NextNova,4446.68,6257.85,22,S0020,TRUE
+P00369,BookNest Business 369,Books,Business,BrightHome,5086.55,7811.83,80,S0033,TRUE
+P00370,StyleHub Cookware 370,Home,Cookware,NextNova,17988.74,27513.99,60,S0048,TRUE
+P00371,BookNest Dumbbell 371,Sports,Dumbbell,CloudMart,26390.94,40663.88,17,S0052,TRUE
+P00372,FitPulse Football 372,Sports,Football,StyleHub,8960.35,11611.13,108,S0046,TRUE
+P00373,UrbanEdge Jeans 373,Fashion,Jeans,FitPulse,18776.14,28165.29,323,S0033,TRUE
+P00374,BookNest Bedsheet 374,Home,Bedsheet,BrightHome,41303.79,67572.43,333,S0049,TRUE
+P00375,UrbanEdge Jeans 375,Fashion,Jeans,StyleHub,9431.87,13938.33,380,S0020,TRUE
+P00376,StyleHub Face Wash 376,Beauty,Face Wash,UrbanEdge,18637.41,21965.71,218,S0027,TRUE
+P00377,CloudMart Trimmer 377,Beauty,Trimmer,FitPulse,21230.85,28159.67,483,S0018,TRUE
+P00378,UrbanEdge Power Bank 378,Electronics,Power Bank,CloudMart,10715.48,14211.31,426,S0003,TRUE
+P00379,DataGear Cookware 379,Home,Cookware,NextNova,7148.39,12189.63,169,S0024,TRUE
+P00380,StyleHub Power Bank 380,Electronics,Power Bank,CloudMart,44439.66,57508.01,194,S0055,TRUE
+P00381,FitPulse Football 381,Sports,Football,BookNest,1537.32,2384.7,483,S0048,TRUE
+P00382,UrbanEdge Smartwatch 382,Electronics,Smartwatch,StyleHub,23830.57,36796.34,256,S0045,TRUE
+P00383,CloudMart Cricket Bat 383,Sports,Cricket Bat,BrightHome,33922.39,40650.57,448,S0010,TRUE
+P00384,StyleHub Smartphone 384,Electronics,Smartphone,NextNova,23683.46,36847.06,151,S0030,TRUE
+P00385,NextNova Face Wash 385,Beauty,Face Wash,BookNest,42947.16,72088.35,343,S0054,TRUE
+P00386,UrbanEdge Running Shoes 386,Sports,Running Shoes,BookNest,12191.27,19384.43,55,S0034,TRUE
+P00387,BrightHome Jeans 387,Fashion,Jeans,BookNest,10922.61,15334.09,258,S0020,TRUE
+P00388,UrbanEdge Running Shoes 388,Sports,Running Shoes,CloudMart,26840.83,34097.98,285,S0055,FALSE
+P00389,StyleHub Power Bank 389,Electronics,Power Bank,DataGear,21114.77,24225.31,142,S0048,TRUE
+P00390,CloudMart Lamp 390,Home,Lamp,StyleHub,24670.6,31501.3,111,S0020,TRUE
+P00391,NextNova Power Bank 391,Electronics,Power Bank,BrightHome,5750.39,9914.28,65,S0053,TRUE
+P00392,BrightHome Football 392,Sports,Football,UrbanEdge,33824.95,38118.86,470,S0058,TRUE
+P00393,UrbanEdge Moisturizer 393,Beauty,Moisturizer,FitPulse,9253.31,13214.31,435,S0014,TRUE
+P00394,StyleHub Python 394,Books,Python,FitPulse,41911.71,70079.89,343,S0026,TRUE
+P00395,UrbanEdge Chair 395,Home,Chair,FitPulse,44231.85,70492.84,134,S0039,TRUE
+P00396,CloudMart Dumbbell 396,Sports,Dumbbell,NextNova,27078.98,35550.07,234,S0031,FALSE
+P00397,NextNova Python 397,Books,Python,BrightHome,34189.92,51236.45,470,S0022,TRUE
+P00398,BookNest Business 398,Books,Business,BrightHome,10949.06,17289.48,333,S0006,TRUE
+P00399,NextNova Backpack 399,Fashion,Backpack,DataGear,29397.54,36587.53,341,S0013,TRUE
+P00400,CloudMart Dumbbell 400,Sports,Dumbbell,DataGear,15474.52,24914.61,123,S0006,FALSE
+P00401,BrightHome Business 401,Books,Business,NextNova,42048.93,65624.47,330,S0049,TRUE
+P00402,StyleHub T-Shirt 402,Fashion,T-Shirt,FitPulse,218.08,358.68,296,S0043,TRUE
+P00403,StyleHub Smartphone 403,Electronics,Smartphone,CloudMart,22566.06,32787.69,305,S0028,TRUE
+P00404,CloudMart Mixer 404,Home,Mixer,UrbanEdge,37407.87,62484.94,334,S0032,FALSE
+P00405,BrightHome Data Engineering 405,Books,Data Engineering,FitPulse,15759.88,24614.48,54,S0033,TRUE
+P00406,CloudMart Fiction 406,Books,Fiction,FitPulse,40527.03,51083.8,370,S0011,TRUE
+P00407,StyleHub T-Shirt 407,Fashion,T-Shirt,FitPulse,1518.24,1998.27,263,S0058,TRUE
+P00408,BrightHome Smartphone 408,Electronics,Smartphone,BrightHome,20657.68,30696.6,50,S0056,TRUE
+P00409,NextNova Power Bank 409,Electronics,Power Bank,StyleHub,6927.08,8552.9,464,S0005,TRUE
+P00410,FitPulse Cricket Bat 410,Sports,Cricket Bat,StyleHub,16164.06,19035.6,59,S0057,TRUE
+P00411,StyleHub Headphones 411,Electronics,Headphones,BookNest,42885.79,69913.69,285,S0012,TRUE
+P00412,StyleHub Python 412,Books,Python,BookNest,31807.44,36678.76,438,S0018,TRUE
+P00413,BrightHome Shoes 413,Fashion,Shoes,StyleHub,33503.9,45482.99,366,S0023,TRUE
+P00414,CloudMart Cloud 414,Books,Cloud,UrbanEdge,40809.54,71411.89,429,S0048,TRUE
+P00415,BookNest Bedsheet 415,Home,Bedsheet,DataGear,20947.37,25638.88,172,S0050,TRUE
+P00416,StyleHub Backpack 416,Fashion,Backpack,StyleHub,36190.36,47288.55,131,S0055,TRUE
+P00417,StyleHub Mixer 417,Home,Mixer,BookNest,35521.5,54193.36,391,S0032,TRUE
+P00418,BookNest Business 418,Books,Business,StyleHub,613.01,766.05,51,S0006,TRUE
+P00419,StyleHub Face Wash 419,Beauty,Face Wash,BrightHome,27522.83,43604.84,87,S0032,TRUE
+P00420,CloudMart Perfume 420,Beauty,Perfume,UrbanEdge,23975.3,32324.72,89,S0005,TRUE
+P00421,NextNova Data Engineering 421,Books,Data Engineering,BookNest,23137.36,29224.08,73,S0031,TRUE
+P00422,UrbanEdge Power Bank 422,Electronics,Power Bank,BookNest,34078.14,56890.68,242,S0018,TRUE
+P00423,BrightHome Chair 423,Home,Chair,NextNova,41292.51,61600.96,152,S0037,TRUE
+P00424,UrbanEdge Shampoo 424,Beauty,Shampoo,NextNova,26339.15,34490.55,410,S0015,TRUE
+P00425,BookNest Cloud 425,Books,Cloud,DataGear,27896.15,47279.77,185,S0027,TRUE
+P00426,UrbanEdge Power Bank 426,Electronics,Power Bank,NextNova,36218.39,49361.15,121,S0021,TRUE
+P00427,CloudMart Power Bank 427,Electronics,Power Bank,FitPulse,40084.61,65981.59,274,S0053,TRUE
+P00428,CloudMart Shoes 428,Fashion,Shoes,CloudMart,5686.86,9136.13,277,S0053,TRUE
+P00429,StyleHub T-Shirt 429,Fashion,T-Shirt,CloudMart,10290.55,15021.1,360,S0051,TRUE
+P00430,BookNest Dumbbell 430,Sports,Dumbbell,StyleHub,24193.75,42213.25,157,S0004,TRUE
+P00431,FitPulse Cookware 431,Home,Cookware,BookNest,22825.06,33068.39,72,S0048,TRUE
+P00432,DataGear Trimmer 432,Beauty,Trimmer,BrightHome,31798.61,44350.46,181,S0011,TRUE
+P00433,DataGear Fiction 433,Books,Fiction,StyleHub,38948.41,66541.2,368,S0036,FALSE
+P00434,NextNova T-Shirt 434,Fashion,T-Shirt,BookNest,27516.99,31881.99,316,S0010,TRUE
+P00435,UrbanEdge Jacket 435,Fashion,Jacket,BrightHome,26807.33,45267.56,198,S0044,FALSE
+P00436,CloudMart Cloud 436,Books,Cloud,NextNova,32273.1,47085.2,227,S0013,TRUE
+P00437,BrightHome Jacket 437,Fashion,Jacket,CloudMart,39558.26,64121.77,392,S0047,TRUE
+P00438,BrightHome Mixer 438,Home,Mixer,BrightHome,39175.02,52981.67,85,S0005,TRUE
+P00439,StyleHub Backpack 439,Fashion,Backpack,DataGear,37097.98,60468.49,29,S0022,TRUE
+P00440,BrightHome Shoes 440,Fashion,Shoes,StyleHub,14993.79,18056.31,172,S0018,TRUE
+P00441,FitPulse Cloud 441,Books,Cloud,DataGear,21636,37169.33,171,S0016,FALSE
+P00442,UrbanEdge Python 442,Books,Python,CloudMart,10709.85,18106.67,160,S0023,TRUE
+P00443,UrbanEdge Business 443,Books,Business,UrbanEdge,38210.18,49445.83,408,S0012,TRUE
+P00444,BrightHome Python 444,Books,Python,BrightHome,39904.17,63670.69,105,S0040,TRUE
+P00445,BrightHome Business 445,Books,Business,NextNova,4886.99,5594.81,27,S0013,TRUE
+P00446,FitPulse Headphones 446,Electronics,Headphones,BookNest,6664.6,8878.89,18,S0037,TRUE
+P00447,FitPulse Perfume 447,Beauty,Perfume,DataGear,36213.95,54132.67,296,S0016,TRUE
+P00448,BrightHome Backpack 448,Fashion,Backpack,UrbanEdge,44435.69,74536.26,377,S0010,TRUE
+P00449,NextNova Perfume 449,Beauty,Perfume,BookNest,1146.62,1975.18,85,S0028,TRUE
+P00450,BrightHome Jacket 450,Fashion,Jacket,StyleHub,39427.94,58993.39,144,S0001,TRUE
+P00451,NextNova Backpack 451,Fashion,Backpack,NextNova,38755.01,61555.77,284,S0051,TRUE
+P00452,CloudMart Smartphone 452,Electronics,Smartphone,UrbanEdge,10276.87,12839.07,204,S0005,TRUE
+P00453,StyleHub Jeans 453,Fashion,Jeans,FitPulse,14440.15,23122.39,328,S0019,TRUE
+P00454,BookNest Laptop 454,Electronics,Laptop,BookNest,10536.38,14205.44,440,S0039,FALSE
+P00455,DataGear Data Engineering 455,Books,Data Engineering,DataGear,23465.83,26362.69,337,S0004,TRUE
+P00456,UrbanEdge Trimmer 456,Beauty,Trimmer,BrightHome,36087.22,48855.32,107,S0038,TRUE
+P00457,BrightHome Moisturizer 457,Beauty,Moisturizer,DataGear,10985.89,12661.97,12,S0035,TRUE
+P00458,CloudMart Headphones 458,Electronics,Headphones,BrightHome,35825.5,51400.16,61,S0032,TRUE
+P00459,BrightHome Shoes 459,Fashion,Shoes,NextNova,35059.64,58517.18,373,S0049,TRUE
+P00460,DataGear Moisturizer 460,Beauty,Moisturizer,BookNest,25594.5,38261.44,403,S0022,TRUE
+P00461,CloudMart Yoga Mat 461,Sports,Yoga Mat,StyleHub,19419.63,25280.13,376,S0003,TRUE
+P00462,BrightHome Cricket Bat 462,Sports,Cricket Bat,DataGear,9295.44,11703.27,415,S0060,TRUE
+P00463,DataGear Cookware 463,Home,Cookware,UrbanEdge,28134.1,34085.27,400,S0054,TRUE
+P00464,StyleHub Shampoo 464,Beauty,Shampoo,FitPulse,39865.56,68526.24,428,S0007,TRUE
+P00465,UrbanEdge Chair 465,Home,Chair,CloudMart,27657.18,39460.56,305,S0004,TRUE
+P00466,NextNova Fiction 466,Books,Fiction,FitPulse,23288.45,32877.55,427,S0060,TRUE
+P00467,UrbanEdge Business 467,Books,Business,UrbanEdge,29170.32,45644.35,208,S0002,TRUE
+P00468,NextNova Smartwatch 468,Electronics,Smartwatch,StyleHub,34697.35,47777,105,S0004,TRUE
+P00469,FitPulse Face Wash 469,Beauty,Face Wash,FitPulse,36219.71,56488.73,274,S0013,TRUE
+P00470,StyleHub Headphones 470,Electronics,Headphones,DataGear,18560.54,28283.27,353,S0005,TRUE
+P00471,StyleHub Smartphone 471,Electronics,Smartphone,BookNest,28047.33,35042.55,454,S0022,TRUE
+P00472,DataGear Trimmer 472,Beauty,Trimmer,BrightHome,776.23,1035.15,101,S0040,FALSE
+P00473,CloudMart Smartphone 473,Electronics,Smartphone,UrbanEdge,11810.76,13620.92,38,S0027,TRUE
+P00474,DataGear Business 474,Books,Business,BookNest,10321.71,17521.33,468,S0040,TRUE
+P00475,FitPulse Laptop 475,Electronics,Laptop,NextNova,26912.68,33298.51,467,S0035,TRUE
+P00476,BrightHome Cookware 476,Home,Cookware,DataGear,38520.25,57183.05,383,S0005,TRUE
+P00477,NextNova Cricket Bat 477,Sports,Cricket Bat,BookNest,20071.61,25729.1,243,S0051,TRUE
+P00478,FitPulse Dumbbell 478,Sports,Dumbbell,StyleHub,27510.33,41700,33,S0015,TRUE
+P00479,BrightHome Moisturizer 479,Beauty,Moisturizer,StyleHub,39699.97,52301.58,432,S0044,TRUE
+P00480,NextNova Yoga Mat 480,Sports,Yoga Mat,StyleHub,15015.11,25594.79,54,S0047,TRUE
+P00481,NextNova Moisturizer 481,Beauty,Moisturizer,BrightHome,42519.01,66770.15,194,S0016,TRUE
+P00482,DataGear Chair 482,Home,Chair,BookNest,33218.08,54283.23,174,S0016,TRUE
+P00483,StyleHub Backpack 483,Fashion,Backpack,BrightHome,3641.54,4852.2,410,S0056,TRUE
+P00484,StyleHub Headphones 484,Electronics,Headphones,FitPulse,44769.77,68979.56,476,S0016,TRUE
+P00485,FitPulse Mixer 485,Home,Mixer,CloudMart,15736.95,27158.48,126,S0055,TRUE
+P00486,NextNova Face Wash 486,Beauty,Face Wash,CloudMart,20522.46,34052.22,468,S0033,TRUE
+P00487,FitPulse Mixer 487,Home,Mixer,UrbanEdge,21811.12,30570.06,244,S0029,TRUE
+P00488,NextNova Football 488,Sports,Football,CloudMart,4621.07,7003.9,215,S0060,TRUE
+P00489,UrbanEdge Laptop 489,Electronics,Laptop,DataGear,41929.71,62351.55,11,S0006,TRUE
+P00490,UrbanEdge Data Engineering 490,Books,Data Engineering,NextNova,3081.62,3753.19,6,S0037,TRUE
+P00491,NextNova Business 491,Books,Business,FitPulse,23988.24,30150,47,S0050,TRUE
+P00492,StyleHub Jeans 492,Fashion,Jeans,StyleHub,32566.83,55907.9,119,S0031,TRUE
+P00493,UrbanEdge Shampoo 493,Beauty,Shampoo,NextNova,19905.95,23841.57,118,S0053,TRUE
+P00494,NextNova Smartwatch 494,Electronics,Smartwatch,BrightHome,11502.21,16180.7,191,S0054,TRUE
+P00495,NextNova Cricket Bat 495,Sports,Cricket Bat,DataGear,10981.53,18859.79,37,S0041,TRUE
+P00496,FitPulse Shampoo 496,Beauty,Shampoo,BookNest,32448.66,56127,235,S0060,TRUE
+P00497,BookNest Perfume 497,Beauty,Perfume,UrbanEdge,531,661.26,217,S0034,TRUE
+P00498,UrbanEdge Moisturizer 498,Beauty,Moisturizer,BrightHome,29534.31,50825.02,233,S0019,TRUE
+P00499,BookNest Smartphone 499,Electronics,Smartphone,BookNest,15594.2,21316.17,198,S0010,TRUE
+P00500,BookNest Moisturizer 500,Beauty,Moisturizer,BrightHome,17405.97,26485.12,203,S0039,TRUE
+P00501,FitPulse Backpack 501,Fashion,Backpack,FitPulse,28367.08,36475.24,358,S0045,TRUE
+P00502,BrightHome Power Bank 502,Electronics,Power Bank,FitPulse,43758.16,69059.91,96,S0042,TRUE
+P00503,UrbanEdge Mixer 503,Home,Mixer,FitPulse,37037.25,48045.33,311,S0002,TRUE
+P00504,DataGear Running Shoes 504,Sports,Running Shoes,BrightHome,41989.56,60796.59,415,S0011,TRUE
+P00505,FitPulse Headphones 505,Electronics,Headphones,CloudMart,39719.31,54064.88,421,S0059,TRUE
+P00506,UrbanEdge Football 506,Sports,Football,BrightHome,44398.96,54567.59,51,S0039,TRUE
+P00507,UrbanEdge Smartphone 507,Electronics,Smartphone,NextNova,40469.36,49108.4,109,S0015,TRUE
+P00508,BookNest T-Shirt 508,Fashion,T-Shirt,UrbanEdge,34931.3,45912.28,450,S0004,TRUE
+P00509,BookNest Jacket 509,Fashion,Jacket,BookNest,38173.44,61682.64,249,S0004,TRUE
+P00510,UrbanEdge Mixer 510,Home,Mixer,StyleHub,23180.96,35162.13,265,S0031,TRUE
+P00511,StyleHub Lamp 511,Home,Lamp,StyleHub,20178.9,35088.91,337,S0053,TRUE
+P00512,FitPulse Lamp 512,Home,Lamp,BrightHome,21971.34,36463.12,161,S0010,TRUE
+P00513,UrbanEdge Backpack 513,Fashion,Backpack,BookNest,36391.97,49393.28,18,S0018,TRUE
+P00514,BrightHome Bedsheet 514,Home,Bedsheet,NextNova,2413.32,3382.31,410,S0042,TRUE
+P00515,BrightHome Chair 515,Home,Chair,FitPulse,15151.11,24972.46,137,S0045,TRUE
+P00516,UrbanEdge T-Shirt 516,Fashion,T-Shirt,UrbanEdge,3678.06,6017.83,314,S0020,TRUE
+P00517,BookNest Cricket Bat 517,Sports,Cricket Bat,BrightHome,29570.96,48540.98,235,S0019,TRUE
+P00518,NextNova Cricket Bat 518,Sports,Cricket Bat,DataGear,37964.17,57008.69,12,S0006,TRUE
+P00519,FitPulse Jeans 519,Fashion,Jeans,CloudMart,32266.02,47069.68,293,S0038,TRUE
+P00520,FitPulse Bedsheet 520,Home,Bedsheet,NextNova,625.54,981.52,300,S0014,TRUE
+P00521,UrbanEdge Cookware 521,Home,Cookware,DataGear,38266.41,60622.97,420,S0003,TRUE
+P00522,BrightHome Laptop 522,Electronics,Laptop,CloudMart,10883.91,18498.42,162,S0010,TRUE
+P00523,BrightHome Running Shoes 523,Sports,Running Shoes,UrbanEdge,31889.32,35749.12,207,S0055,TRUE
+P00524,FitPulse Power Bank 524,Electronics,Power Bank,UrbanEdge,31408.37,50994.7,470,S0050,TRUE
+P00525,BookNest Business 525,Books,Business,StyleHub,25166.54,29954.29,459,S0048,TRUE
+P00526,FitPulse Jacket 526,Fashion,Jacket,BookNest,39689.07,53906.61,288,S0040,TRUE
+P00527,CloudMart Shoes 527,Fashion,Shoes,NextNova,19763,27267.45,372,S0024,TRUE
+P00528,CloudMart Lamp 528,Home,Lamp,DataGear,31602.48,44803.46,224,S0016,TRUE
+P00529,DataGear Business 529,Books,Business,BookNest,13429.49,20455.95,354,S0004,TRUE
+P00530,StyleHub T-Shirt 530,Fashion,T-Shirt,FitPulse,44569.85,50874.42,163,S0022,TRUE
+P00531,CloudMart Smartwatch 531,Electronics,Smartwatch,UrbanEdge,11929.62,15076.54,348,S0025,TRUE
+P00532,FitPulse Moisturizer 532,Beauty,Moisturizer,UrbanEdge,40904.59,70462.36,240,S0013,TRUE
+P00533,CloudMart Headphones 533,Electronics,Headphones,CloudMart,2359.7,3610.65,249,S0005,TRUE
+P00534,DataGear Jeans 534,Fashion,Jeans,DataGear,14942.41,17578.69,468,S0022,TRUE
+P00535,BookNest Backpack 535,Fashion,Backpack,NextNova,39360.44,61375.59,41,S0034,FALSE
+P00536,BookNest Shoes 536,Fashion,Shoes,UrbanEdge,32596.88,40737.84,479,S0017,TRUE
+P00537,UrbanEdge Face Wash 537,Beauty,Face Wash,UrbanEdge,6107.8,8390.15,339,S0009,TRUE
+P00538,NextNova Yoga Mat 538,Sports,Yoga Mat,StyleHub,10339,12450.56,161,S0010,TRUE
+P00539,FitPulse Laptop 539,Electronics,Laptop,BookNest,30638.51,43556.19,283,S0036,TRUE
+P00540,DataGear Trimmer 540,Beauty,Trimmer,UrbanEdge,30550.94,38137.18,59,S0036,TRUE
+P00541,FitPulse Data Engineering 541,Books,Data Engineering,CloudMart,21615.83,25174.14,313,S0045,TRUE
+P00542,UrbanEdge Python 542,Books,Python,BrightHome,24673.22,38254.89,51,S0003,TRUE
+P00543,DataGear T-Shirt 543,Fashion,T-Shirt,CloudMart,10533.29,12700.32,193,S0054,TRUE
+P00544,StyleHub Laptop 544,Electronics,Laptop,CloudMart,38753.07,50827.79,44,S0031,TRUE
+P00545,CloudMart Shoes 545,Fashion,Shoes,NextNova,26729.55,39376.12,46,S0037,TRUE
+P00546,UrbanEdge Running Shoes 546,Sports,Running Shoes,DataGear,13167.36,16671.2,88,S0045,TRUE
+P00547,BrightHome Chair 547,Home,Chair,NextNova,37724.82,46683.82,48,S0052,TRUE
+P00548,StyleHub Football 548,Sports,Football,StyleHub,43409.63,66616.86,82,S0043,TRUE
+P00549,UrbanEdge Perfume 549,Beauty,Perfume,BrightHome,27182.23,31764.52,485,S0059,TRUE
+P00550,BookNest Laptop 550,Electronics,Laptop,UrbanEdge,8420.63,13661.68,346,S0043,TRUE
+P00551,DataGear T-Shirt 551,Fashion,T-Shirt,StyleHub,20255.26,22691.42,162,S0048,TRUE
+P00552,StyleHub Cricket Bat 552,Sports,Cricket Bat,BrightHome,17850.35,27271.39,111,S0053,TRUE
+P00553,UrbanEdge Dumbbell 553,Sports,Dumbbell,BrightHome,9727.76,11263.6,96,S0013,TRUE
+P00554,CloudMart Moisturizer 554,Beauty,Moisturizer,NextNova,35198.47,53501.81,106,S0019,TRUE
+P00555,FitPulse Shampoo 555,Beauty,Shampoo,FitPulse,28088.9,44109.73,64,S0025,TRUE
+P00556,BrightHome Chair 556,Home,Chair,FitPulse,10020.4,13954.7,52,S0059,TRUE
+P00557,BrightHome Chair 557,Home,Chair,StyleHub,44095.15,68460.46,56,S0006,TRUE
+P00558,FitPulse Chair 558,Home,Chair,UrbanEdge,20100.64,23915.47,104,S0030,TRUE
+P00559,FitPulse Python 559,Books,Python,DataGear,35976.6,46521.45,77,S0042,TRUE
+P00560,CloudMart Headphones 560,Electronics,Headphones,NextNova,4400.88,5098.01,347,S0055,TRUE
+P00561,UrbanEdge Smartwatch 561,Electronics,Smartwatch,CloudMart,6006.01,7677.69,488,S0011,TRUE
+P00562,BookNest Lamp 562,Home,Lamp,CloudMart,22109.65,35127.75,470,S0040,TRUE
+P00563,BookNest Mixer 563,Home,Mixer,FitPulse,44830.19,56616,272,S0013,TRUE
+P00564,BookNest Football 564,Sports,Football,NextNova,33872.99,47571.13,203,S0004,TRUE
+P00565,NextNova Dumbbell 565,Sports,Dumbbell,FitPulse,36411.84,43402.02,247,S0027,TRUE
+P00566,CloudMart Jacket 566,Fashion,Jacket,CloudMart,33019.76,46677.33,442,S0035,TRUE
+P00567,StyleHub Moisturizer 567,Beauty,Moisturizer,BookNest,34415.2,56026.28,246,S0049,TRUE
+P00568,StyleHub Cloud 568,Books,Cloud,DataGear,16962.66,21011.96,145,S0011,TRUE
+P00569,StyleHub Jacket 569,Fashion,Jacket,UrbanEdge,15259.51,19329.76,207,S0049,TRUE
+P00570,FitPulse Shampoo 570,Beauty,Shampoo,StyleHub,7086.22,9313.48,325,S0005,TRUE
+P00571,StyleHub Data Engineering 571,Books,Data Engineering,BrightHome,14448.86,23594.14,365,S0022,TRUE
+P00572,FitPulse Lamp 572,Home,Lamp,NextNova,2738.99,4224.52,478,S0052,TRUE
+P00573,BrightHome Football 573,Sports,Football,NextNova,1097.52,1800.08,495,S0037,TRUE
+P00574,BrightHome Headphones 574,Electronics,Headphones,NextNova,34169.58,46271.4,392,S0057,TRUE
+P00575,BookNest Fiction 575,Books,Fiction,UrbanEdge,33236,46639.3,50,S0048,TRUE
+P00576,UrbanEdge Python 576,Books,Python,CloudMart,3166.43,4966.95,491,S0055,TRUE
+P00577,BrightHome Perfume 577,Beauty,Perfume,UrbanEdge,41175.75,70229.49,141,S0040,TRUE
+P00578,UrbanEdge Trimmer 578,Beauty,Trimmer,BrightHome,4420.37,6943.72,293,S0052,TRUE
+P00579,StyleHub Smartphone 579,Electronics,Smartphone,BrightHome,7558.63,12942.76,377,S0032,TRUE
+P00580,UrbanEdge Cricket Bat 580,Sports,Cricket Bat,CloudMart,26026.41,34523.64,341,S0005,TRUE
+P00581,BookNest Bedsheet 581,Home,Bedsheet,StyleHub,43837.16,67807.74,469,S0046,TRUE
+P00582,BookNest Shoes 582,Fashion,Shoes,FitPulse,41159.42,66584.25,366,S0001,TRUE
+P00583,BrightHome Business 583,Books,Business,DataGear,34386.33,49678.3,295,S0027,TRUE
+P00584,NextNova Headphones 584,Electronics,Headphones,FitPulse,19690.39,31608.58,377,S0047,TRUE
+P00585,DataGear Data Engineering 585,Books,Data Engineering,NextNova,35887.92,62011.58,135,S0059,TRUE
+P00586,UrbanEdge Trimmer 586,Beauty,Trimmer,CloudMart,34292.26,51820.44,499,S0054,TRUE
+P00587,FitPulse Cricket Bat 587,Sports,Cricket Bat,CloudMart,13900.83,23408.45,256,S0025,TRUE
+P00588,StyleHub Fiction 588,Books,Fiction,UrbanEdge,16427.01,24024.97,464,S0022,TRUE
+P00589,CloudMart Cookware 589,Home,Cookware,FitPulse,8000.36,9955.09,242,S0048,TRUE
+P00590,NextNova Running Shoes 590,Sports,Running Shoes,BrightHome,3119.88,4184.42,455,S0046,TRUE
+P00591,BrightHome Power Bank 591,Electronics,Power Bank,FitPulse,2510.13,3106.55,490,S0010,TRUE
+P00592,StyleHub Running Shoes 592,Sports,Running Shoes,FitPulse,44805.58,54753.24,80,S0036,TRUE
+P00593,UrbanEdge Business 593,Books,Business,StyleHub,33213.61,42330.89,105,S0012,FALSE
+P00594,FitPulse Smartwatch 594,Electronics,Smartwatch,DataGear,22566.13,31134.13,19,S0012,TRUE
+P00595,NextNova Laptop 595,Electronics,Laptop,UrbanEdge,25434.09,32108.79,249,S0022,TRUE
+P00596,StyleHub Bedsheet 596,Home,Bedsheet,DataGear,10651.89,14564,297,S0035,TRUE
+P00597,DataGear Shampoo 597,Beauty,Shampoo,NextNova,10143.48,15698.87,456,S0043,TRUE
+P00598,BookNest Lamp 598,Home,Lamp,BookNest,4659.85,5244.74,154,S0015,TRUE
+P00599,BookNest Dumbbell 599,Sports,Dumbbell,DataGear,8855.44,13799.55,47,S0003,TRUE
+P00600,NextNova Laptop 600,Electronics,Laptop,NextNova,33783.16,38676.26,228,S0055,TRUE
